@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wheather/static/css/main.dcd21fbb.css",
+    "main.js": "/wheather/static/js/main.e6846d67.js",
+    "static/media/warm-bg.jpg": "/wheather/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold-bg.jpg": "/wheather/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
+    "index.html": "/wheather/index.html",
+    "main.dcd21fbb.css.map": "/wheather/static/css/main.dcd21fbb.css.map",
+    "main.e6846d67.js.map": "/wheather/static/js/main.e6846d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd21fbb.css",
+    "static/js/main.e6846d67.js"
+  ]
+}
