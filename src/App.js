@@ -59,7 +59,6 @@ function App() {
               <div className="noCity">There is no such city</div>
             </>)}
       </main>
-      wheather-app
     </div>
   );
 }

@@ -15,7 +15,7 @@ body{
   transition: 0.4 ease-out;
 }
 
-.app.warm{
+.warm{
   background: url("./assets/warm-bg.jpg");
   background-size: cover;
   background-position: bottom;
